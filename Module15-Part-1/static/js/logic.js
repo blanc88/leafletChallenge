@@ -1,4 +1,4 @@
-logic.js
+console.log()
 
 // map object
 let map = L.map('map',  {
